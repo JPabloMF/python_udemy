@@ -4,3 +4,13 @@
 # use [eval(string)]  - ONLY in specific cases or being evaluated by a regex - is avoided
 # to evaluate complex mathematical operations from strings
 # eval('80+2') -> 82
+
+
+# COMMENTS
+
+# single line
+'''
+Multi
+Line
+Comments
+'''
