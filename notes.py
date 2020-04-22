@@ -14,3 +14,10 @@ Multi
 Line
 Comments
 '''
+
+# VIRTUALENV
+# I create a virtual env to install packages only in an instance (project)
+# on the folder that you want to create a virtual env
+### virtualenv name
+# then to activate it
+### folder\Scripts\activate
